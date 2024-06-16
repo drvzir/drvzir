@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Wazir</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Wazir husband of Ashima Sharma </h1>
 <h3 align="center">A passionate AI/ML enthusiast who has keen interest in Artificial intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drvzir&label=Profile%20views&color=0e75b6&style=flat" alt="drvzir" /> </p>
