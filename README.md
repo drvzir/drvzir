@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drvzir" alt="drvzir" /></a> </p>
 
-- 🔭 I’m currently working on [Stay-Scape](https://github.com/drvzir/Stay-Scape)
+- 🔭 I’m currently working on a [Machine learning Project]
 
 - 🌱 I’m currently learning **React.js , and machine learning algorithms.**
 
