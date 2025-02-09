@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhruv Wazir </h1>
 <h3 align="center">A passionate AI/ML enthusiast who has keen interest in Artificial intelligence</h3>
+<h4 align="center">I am a Software Developer in Docquity Holdings Ggn </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drvzir&label=Profile%20views&color=0e75b6&style=flat" alt="drvzir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drvzir" alt="drvzir" /></a> </p>
 
-- 🔭 I’m currently working on a [Machine learning Project]
+- 🔭 I’m currently working on a angular and typescript.
 
 - 🌱 I’m currently learning **React.js , and machine learning algorithms.**
 
